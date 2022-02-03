@@ -44,4 +44,4 @@ while True:
         break
         
     else:
-        print(f"{colours.green}This command is {colours.red}invalid. {colours.yellow}Valid commands: calc, quit.{colours.default}")
+        print(f"{Colours.green}This command is {Colours.red}invalid. {Colours.yellow}Valid commands: calc, quit.{Colours.default}")
